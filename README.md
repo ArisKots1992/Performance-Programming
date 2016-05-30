@@ -6,7 +6,7 @@ Some of the methods we used:
 
 1 **Compiler optimization**  
  1.2 Compiler hints  
- 1.3 Compiler flags
+ 1.3 Compiler flags  
 2 **IR level optimization**  
  2.1 Basic optimization  
   2.1.1 Constant folding  
